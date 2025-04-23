@@ -30,9 +30,14 @@
 - Eliminar duplicados tomando en consideración Emp_ID
 	Fue usada la herramienta de datos 'Eliminar duplicados' seleccionando solo la columna Emp_ID, eliminándose 31 datos duplicados, quedando 234 filas.
 
-La desventaja de hacer este tipo de proceso de limpieza de datos es que todo se realiza de manera Manual, sin embargo usando Power Query quedaría automatizado en caso de insertar más datos en el futuro.
 
-Este tipo de limpieza de datos Manual se recomienda en aquellas base de datos que no cambiarán en el tiempo o que la ingesta de nueva data es insignificante o nula, también si tienes conjuntos de datos muy pequeños o simples, donde los cambios son mínimos y fáciles de manejar. También puede ser útil cuando necesitas realizar ajustes muy específicos o personalizados que no se adaptan bien a las funciones automáticas. Sin embargo, para bases de datos más grandes o complejas, generalmente es más eficiente y preciso usar herramientas automatizadas, ya que reducen errores y ahorran tiempo.
+
+> [!WARNING]
+> La desventaja de hacer este tipo de proceso de limpieza de datos es que todo se realiza de manera Manual, sin embargo usando Power Query quedaría automatizado en caso de insertar más datos en el futuro.
+
+> [!IMPORTANT]
+> Este tipo de limpieza de datos Manual se recomienda en aquellas base de datos que no cambiarán en el tiempo o que la ingesta de nueva data es insignificante o nula, también si tienes conjuntos de datos muy pequeños o simples, donde los cambios son mínimos y fáciles de manejar. También puede ser útil cuando necesitas realizar ajustes muy específicos o personalizados que no se adaptan bien a las funciones automáticas. Sin embargo, para bases de datos más grandes o complejas, generalmente es más eficiente y preciso usar herramientas automatizadas, ya que reducen errores y ahorran tiempo.
+
 
 ## Archivo 2.
 
