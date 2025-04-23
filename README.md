@@ -30,7 +30,7 @@
 - Eliminar duplicados tomando en consideración Emp_ID
 	Fue usada la herramienta de datos 'Eliminar duplicados' seleccionando solo la columna Emp_ID, eliminándose 31 datos duplicados, quedando 234 filas.
 
-
+![limpieza_archivo1](https://github.com/user-attachments/assets/c3b7443c-5563-47c3-89a5-dad90c1aaf4e)
 
 > [!WARNING]
 > La desventaja de hacer este tipo de proceso de limpieza de datos es que todo se realiza de manera Manual, sin embargo usando Power Query quedaría automatizado en caso de insertar más datos en el futuro.
