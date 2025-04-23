@@ -68,7 +68,8 @@
 	Se puede identificar las celdas vacías haciendo un formato condicional y rellenando la celdas vacías con un color específico que las resalte. Luego puede filtrar por color del relleno y eliminarlas. 
 	También puede utilizar el procedimiento explicado en el Archivo1.
 
-OJO: recuerde que antes de eliminar filas con datos nulos o vacíos se debe tener en cuenta preguntar al cliente si es posible obtener esos datos faltantes o estar seguro de que se pueden eliminar
+> [!NOTE]
+> Recuerde que antes de eliminar filas con datos nulos o vacíos se debe tener en cuenta preguntar al cliente si es posible obtener esos datos faltantes o estar seguro de que se pueden eliminar
 
 ## Archivo 3.
 
