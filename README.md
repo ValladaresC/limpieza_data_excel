@@ -83,3 +83,5 @@
 	Fue utilizado la función SUSTITUIR la cual reemplaza el texto existente con el texto nuevo en una cadena de la siguiente manera: USTITUIR([@salary];".";",") y por ultimo se aplicó la función VALOR para formatear el texto a valor.
 - Extraer de file_name solo el nombre del archivo, sin su extensión
 	Fue usada la herramienta 'Buscar y reemplazar' de la siguiente manera: se colocó la siguiente nomenclatura *\ la cual busca todos los caracteres que estén antes del "\" y los reemplaza por nada. Por último para eliminar la extensión del archivo es usada la nomenclatura .* la cual reemplazará por nada todo lo que este después del punto incluyéndolo.
+
+![limpieza_archivo3](https://github.com/user-attachments/assets/48400661-3e56-4827-a35c-875e4fc9d6c4)
